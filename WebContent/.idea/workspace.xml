@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="689aaaf9-c21f-4069-9b12-d0632cf67c5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.recommenders/caches/identified-project-coordinates.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../../.recommenders/index/http___download_eclipse_org_recommenders_models_photon_/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/admin/add-product.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/admin/admin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/admin/update-product.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/contact/contact.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/core/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/core/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/products/product.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/products/products.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/users/account.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/users/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/users/person.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/view/users/persons.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/beans/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/beans/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/beans/DecimalFormatPrintable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/beans/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/beans/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/beans/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/business/dao/DaoFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/business/dao/ProductsDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/business/products/ProductsBusiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/business/users/PersonsBusiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/business/users/UserBusiness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/admin/AddProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/admin/AdministrationServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/admin/UpdateProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/contact/ContactServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/home/HomeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/products/ProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/products/ProductsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/users/AccountServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/users/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/users/LogoutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/users/PersonServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/fr/afpa/controller/users/PersonsServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../myapp.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/beans/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/beans/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/beans/DecimalFormatPrintable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/beans/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/beans/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/beans/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/business/dao/DaoFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/business/dao/ProductsDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/business/products/ProductsBusiness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/business/users/PersonsBusiness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/business/users/UserBusiness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/admin/AddProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/admin/AdministrationServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/admin/UpdateProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/contact/ContactServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/home/HomeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/products/ProductServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/products/ProductsServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/users/AccountServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/users/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/users/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/users/PersonServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/fr/afpa/controller/users/PersonsServlet.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-284094916">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="8" />
+          <entry key="js" value="12" />
+          <entry key="jsp" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="8" />
+          <entry key="JSP" value="2" />
+          <entry key="JavaScript" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1046" />
+          <entry key="js" value="668" />
+          <entry key="jsp" value="142" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1046" />
+          <entry key="JSP" value="142" />
+          <entry key="JavaScript" value="668" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/resources/js/carousel.js" />
+        <option value="$PROJECT_DIR$/WEB-INF/view/login.jsp" />
+        <option value="$PROJECT_DIR$/resources/js/js.js" />
+        <option value="$PROJECT_DIR$/resources/js/produit.js" />
+        <option value="$PROJECT_DIR$/resources/js/product.js" />
+        <option value="$PROJECT_DIR$/resources/js/login.js" />
+        <option value="$PROJECT_DIR$/resources/css/default.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="621" />
+    <option name="y" value="40" />
+    <option name="width" value="1307" />
+    <option name="height" value="1043" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebContent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebContent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebContent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../yrrho-ik/WebContent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\59013-64-05\Documents\jee\WebApp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="689aaaf9-c21f-4069-9b12-d0632cf67c5a" name="Default Changelist" comment="" />
+      <created>1539847279758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539847279758</updated>
+      <workItem from="1539847281190" duration="17857000" />
+      <workItem from="1540192970508" duration="5915000" />
+      <workItem from="1540278933759" duration="4506000" />
+      <workItem from="1540451850872" duration="5468000" />
+      <workItem from="1540539844376" duration="725000" />
+      <workItem from="1541598718347" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34560000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="621" y="40" width="1307" height="1043" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4208038" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WEB-INF/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="126" column="14" selection-start-line="126" selection-start-column="14" selection-end-line="126" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="77" column="3" selection-start-line="77" selection-start-column="3" selection-end-line="77" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEB-INF/view/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="402" column="49" selection-start-line="402" selection-start-column="49" selection-end-line="402" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/produit.js" />
+    <entry file="file://$PROJECT_DIR$/resources/js/product.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/resources/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="91" column="24" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="531" column="17" selection-start-line="531" selection-start-column="17" selection-end-line="531" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
